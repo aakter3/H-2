@@ -1,0 +1,19 @@
+.button {
+    background-color:aqua; 
+    border: 100px;
+    color: white;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 800px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 2px solid #e7e7e7;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+  }
+  img{
+    width: 220px;
+    height: 250px;
+  }
